@@ -2,7 +2,7 @@
 Feature: Acces to the website
 
   @TEST_TALAC-4
-  Scenario Outline: verify that the user can create a checklist
+  Scenario Outline: verify that the user can create a checklist1
     Given browser is open user put the link of the website
     When write <todo> and clicks enter
     And write <todo1> and clicks enter
