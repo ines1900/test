@@ -2,7 +2,7 @@
 Feature: Acces to the website
 
   @tag1
-  Scenario Outline: verify that the user can create a checklist2
+  Scenario Outline: verify that the user can create a checklist
     Given browser is open user put the link of the website
     When write <todo> and clicks enter
     And write <todo1> and clicks enter
