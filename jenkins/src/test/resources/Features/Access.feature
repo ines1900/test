@@ -1,4 +1,4 @@
-@senarrio
+@scenario
 Feature: Acces to the website
 
   @tag1
